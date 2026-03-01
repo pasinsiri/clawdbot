@@ -208,3 +208,9 @@ __marimo__/
 
 # local credentials
 .ssh
+note.txt
+test.sh
+
+# uv files
+.python-version
+pyproject.toml
